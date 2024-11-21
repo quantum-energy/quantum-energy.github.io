@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Sales Dashboard</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Data Analysis Dashboard</h1>
+
+        <div class="chart">
+            <h2>Sales by Region</h2>
+            {{ bar_chart|safe }}
+        </div>
+
+        <div class="chart">
+            <h2>Profit Trends Over Time</h2>
+            {{ line_chart|safe }}
+        </div>
+
+        <div class="chart">
+            <h2>Discount Distribution by Product</h2>
+            {{ pie_chart|safe }}
+        </div>
+
+        <div class="chart">
+            <h2>Sales vs. Profit Analysis</h2>
+            {{ scatter_chart|safe }}
+        </div>
+    </div>
+
+    <footer>
+        © 2024 Quantum Energy. All Rights Reserved.
+    </footer>
+</body>
+</html>
