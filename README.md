@@ -1,6 +1,6 @@
 🎉 Sales Data Analysis Dashboard 📊
 
-Welcome to the Sales Data Analysis Dashboard! This project is a comprehensive and interactive tool for analyzing complex sales data with stunning visualizations. Built with ❤️ by Quantum Energy, this dashboard helps you uncover valuable insights about sales trends, profit dynamics, discount distributions, and much more.
+Welcome to the Sales Data Analysis Dashboard! This project is a comprehensive and interactive tool for analyzing complex sales data with detailed visualizations. This dashboard helps you uncover valuable insights about sales trends, profit dynamics, discount distributions, and much more.
 
 Whether you’re a business analyst, a sales manager, or just someone fascinated by data, this dashboard has something for everyone!
 
@@ -58,7 +58,7 @@ python app.py
 
 4️⃣ Open in Browser
 
-Visit http://localhost:4444 to explore the dashboard.
+Visit https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev/ to explore the dashboard.
 
 🌐 Deploying to GitHub Pages
 
@@ -94,4 +94,5 @@ GitHub: @quantum-energy
 Thank you for checking out the Sales Data Analysis Dashboard. We hope it brings value to your data-driven decisions. Dive into the data, explore the trends, and have fun! 🚀
 
 Happy analyzing,
+Seraphina
 Quantum Energy 🌟
