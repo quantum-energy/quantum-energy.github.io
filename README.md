@@ -4,10 +4,10 @@ Welcome to the Sales Data Analysis Dashboard! This project provides an interacti
 
 Features
 
-	•	Sales by Region: Bar chart showing total sales for each region.
-	•	Profit Trends Over Time: Line chart tracking profit performance over time.
-	•	Discount Distribution: Pie chart visualizing discounts by product.
-	•	Sales vs. Profit Analysis: Scatter plot exploring the relationship between sales, profit, and units sold.
+•	Sales by Region: Bar chart showing total sales for each region.
+•	Profit Trends Over Time: Line chart tracking profit performance over time.
+•	Discount Distribution: Pie chart visualizing discounts by product.
+•	Sales vs. Profit Analysis: Scatter plot exploring the relationship between sales, profit, and units sold.
 
 The dashboard comes with a professional, neutral tan theme for a clean and cohesive design.
 
@@ -15,37 +15,37 @@ Getting Started
 
 Prerequisites
 
-	•	Python 3.8 or higher
-	•	Git
+•	Python 3.8 or higher
+•	Git
 
 Installation
 
-	1.	Clone this repository:
+1.	Clone this repository:
 
-git clone https://github.com/quantum-energy/quantum-energy.github.io.git
-
-
-	2.	Navigate to the project folder:
-
-cd quantum-energy.github.io
+	git clone https://github.com/quantum-energy/quantum-energy.github.io.git
 
 
-	3.	Install the required Python packages:
+2.	Navigate to the project folder:
 
-pip install -r requirements.txt
+	cd quantum-energy.github.io
+
+
+3.	Install the required Python packages:
+
+	pip install -r requirements.txt
 
 
 
 Running the Dashboard
 
-	1.	Run the Flask app:
+1.	Run the Flask app:
 
-python app.py
+	python app.py
 
 
-	2.	Open your browser and visit:
+2.	Open your browser and visit:
 
-http://localhost:4444
+	http://localhost:4444
 
 
 
