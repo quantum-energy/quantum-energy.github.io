@@ -1,0 +1,6 @@
+flask
+flask-bootstrap
+pandas
+matplotlib
+seaborn
+plotly
