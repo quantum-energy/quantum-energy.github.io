@@ -58,7 +58,7 @@ python app.py
 
 4️⃣ Open in Browser
 
-Visit https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev/ to explore the dashboard.
+Open https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev/ to explore the dashboard.
 
 🌐 Deploying to GitHub Pages
 
