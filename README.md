@@ -52,13 +52,13 @@ pip install -r requirements.txt
 
 3️⃣ Run the Flask App
 
-Start the server on port 4444:
+Start the server on port 1776:
 
 python app.py
 
 4️⃣ Open in Browser
 
-Open https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev/ to explore the dashboard.
+Open https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev to explore the dashboard.
 
 🌐 Deploying to GitHub Pages
 
@@ -69,17 +69,17 @@ GitHub Pages automatically serves the dashboard for public access. No extra conf
 
 ✨ Why This Dashboard?
 
-	•	Gain insights at a glance with multiple visualizations.
-	•	Identify patterns and trends in sales, profits, and discounts.
-	•	Showcase the power of interactive data analysis.
-	•	Deliver business value with professional and aesthetically pleasing design.
+•	Gain insights at a glance with multiple visualizations.
+•	Identify patterns and trends in sales, profits, and discounts.
+•	Showcase the power of interactive data analysis.
+•	Deliver business value with professional and aesthetically pleasing design.
 
 🤝 Contributing
 
 We welcome contributions! If you’d like to improve the dashboard, feel free to:
-	1.	Fork this repository.
-	2.	Make your changes.
-	3.	Submit a pull request.
+1.	Fork this repository.
+2.	Make your changes.
+3.	Submit a pull request.
 
 Let’s make this project even better together! 💪
 
@@ -89,10 +89,7 @@ For questions, suggestions, or feedback, please reach out:
 Email: seraphinaxoxo@icloud.com
 GitHub: @quantum-energy
 
-🎉 Thank You!
-
-Thank you for checking out the Sales Data Analysis Dashboard. We hope it brings value to your data-driven decisions. Dive into the data, explore the trends, and have fun! 🚀
+Thank you for checking out the Sales Data Analysis Dashboard. I hope it brings value to your data-driven decisions. 
 
 Happy analyzing,
-Seraphina
-Quantum Energy 🌟
+Seraphina 🌟
