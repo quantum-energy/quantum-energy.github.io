@@ -35,6 +35,6 @@ def dashboard():
         scatter_chart=scatter_chart.to_html()
     )
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=1776)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8497)
     
