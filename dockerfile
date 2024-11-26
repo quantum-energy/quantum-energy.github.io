@@ -13,8 +13,8 @@ RUN pip install -r requirements.txt
 # Copy the application code into the container
 COPY . .
 
-# Expose the desired port (e.g., 1776)
-EXPOSE 1776
+# Expose the desired port (e.g., 3386)
+EXPOSE 3386
 
 # Run the Flask app
-CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:1776"]
+CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:3386"]

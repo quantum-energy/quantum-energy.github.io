@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the Flask App
 
-Start the server on port 1990:
+Start the server on port 3386:
 
 python app.py
 
