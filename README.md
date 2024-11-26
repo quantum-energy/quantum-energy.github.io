@@ -58,7 +58,7 @@ python app.py
 
 4️⃣ Open in Browser
 
-
+https://stunning-memory-7vpj475wxgrx3xr49-5500.app.github.dev
 
 GitHub Pages automatically serves the dashboard for public access. No extra configuration needed—just push your updates to the repository, and they’ll go live.
 
