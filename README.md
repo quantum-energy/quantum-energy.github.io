@@ -52,13 +52,12 @@ pip install -r requirements.txt
 
 3️⃣ Run the Flask App
 
-Start the server on port 8497:
+Start the server on port 1990:
 
 python app.py
 
 4️⃣ Open in Browser
 
-Open https://obscure-adventure-v6qj7prw54vxfxpxp-1776.app.github.dev to explore the dashboard.
 
 
 GitHub Pages automatically serves the dashboard for public access. No extra configuration needed—just push your updates to the repository, and they’ll go live.
